@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:xiangjing3007/xiangjing3007.github.io.git
+  branch: main
